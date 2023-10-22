@@ -6,7 +6,6 @@ Developer.
 
 I'm a final year computer science student at Chandigarh University. Currently I am working as a Software Engineering Intern@Fourkites. I enjoy playing sports and listening to music in my freetime.
 
-* 🌍 I'm based in Gurugram, India
 * 🌱 I'm learning SpringBoot, Golang
 * 🔭 Ask me about **Space**
 
