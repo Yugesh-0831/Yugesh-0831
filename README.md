@@ -1,8 +1,4 @@
-Hi !👋 My name is Yugesh Jhamb
-====================================================================================================================================
-
-Developer.
----------
+<h1>Hi! 👋, My name is Yugesh Jhamb</h1>
 
 I'm a final year computer science student at Chandigarh University. Currently I am working as a Software Engineering Intern@Fourkites. I enjoy playing sports and listening to music in my freetime.
 
