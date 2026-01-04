@@ -15,5 +15,5 @@ I'm a recent computer science graduate from Chandigarh University. I enjoy playi
 <p align="left">
 <a href="https://linkedin.com/in/yugesh-jhamb-494924204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yugesh-jhamb-494924204" height="30" width="40" /></a>
 <a href="https://instagram.com/yugeshjhamb0731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yugeshjhamb0731" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yugeshjhamb_3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yugeshjhamb_3108" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yugeshjhamb_3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yugeshjhamb_3107" height="30" width="40" /></a>
 </p>
